@@ -1,7 +1,8 @@
 import numpy as np
 from tensorflow.keras.preprocessing import image
-from tensorflow.keras.models import save_model
+from tensorflow.keras.models import load_model
 import os
+
 
 
 class PredictionPipeline:
