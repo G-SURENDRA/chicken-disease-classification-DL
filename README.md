@@ -281,13 +281,6 @@ G-SURENDRA
 This project is licensed under the MIT License.
 
 
-### ⚠️ One important correction
-
-I deliberately **didn't claim specific disease classes**, because I don't want to invent information that isn't visible in the repository's current top-level documentation.
-
-Also, I wrote **95.80%**, not "96%" — because your actual `scores.json` gives `0.958031833...`. :contentReference[oaicite:4]{index=4}
-
-
 
 
 
