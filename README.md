@@ -104,6 +104,32 @@ image classification.
 
 ```
 
+
+🛠️ Tech Stack
+Programming
+Python
+Machine Learning / Deep Learning
+TensorFlow
+Keras
+Convolutional Neural Networks
+NumPy
+MLOps / Workflow
+DVC
+YAML configuration
+GitHub Actions
+Application
+Python web application
+HTML
+CSS
+Development Tools
+Git
+GitHub
+
+
+
+
+
+
 ## Workflows
 1.Update config.yaml
 
