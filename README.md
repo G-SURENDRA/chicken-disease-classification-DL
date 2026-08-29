@@ -271,7 +271,7 @@ Improve the prediction interface
 
 ## 👨‍💻 Author
 
-G-SURENDRA
+G SURENDRA KUMAR
 
 ### GitHub:
      https://github.com/G-SURENDRA
