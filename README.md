@@ -72,7 +72,7 @@ image classification.
 
 ## 🏗️ Project Architecture
 
-```text
+```
                     Chicken Image
                          │
                          ▼
