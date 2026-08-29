@@ -148,34 +148,56 @@ GitHub
 
 
 chicken-disease-classification-DL/
+
 │
 ├── .dvc/
+
 ├── .github/
+
 │   └── workflows/
+
 │
 ├── config/
+
 ├── research/
+
 │
 ├── src/
+
 │   └── cnnClassifier/
+
 │
 ├── static/
+
 ├── templates/
+
 │
 ├── app.py
+
 ├── main.py
+
 ├── test.py
+
 │
 ├── dvc.yaml
+
 ├── dvc.lock
+
 ├── params.yaml
+
 ├── scores.json
+
 │
 ├── requirements.txt
+
 ├── setup.py
+
 ├── .gitignore
+
 ├── .dvcignore
+
 ├── LICENSE
+
 └── README.md
 
 
