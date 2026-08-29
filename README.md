@@ -157,21 +157,25 @@ chicken-disease-classification-DL/
 │   └── workflows/
 
 │
+
 ├── config/
 
 ├── research/
 
 │
+
 ├── src/
 
-│   └── cnnClassifier/
+│     └── cnnClassifier/
 
 │
+
 ├── static/
 
 ├── templates/
 
 │
+
 ├── app.py
 
 ├── main.py
@@ -179,6 +183,7 @@ chicken-disease-classification-DL/
 ├── test.py
 
 │
+
 ├── dvc.yaml
 
 ├── dvc.lock
@@ -188,6 +193,7 @@ chicken-disease-classification-DL/
 ├── scores.json
 
 │
+
 ├── requirements.txt
 
 ├── setup.py
@@ -198,7 +204,7 @@ chicken-disease-classification-DL/
 
 ├── LICENSE
 
-└── README.md
+    └── README.md
 
 
 
