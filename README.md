@@ -105,24 +105,41 @@ image classification.
 ```
 
 
-🛠️ Tech Stack
-Programming
+## 🛠️ Tech Stack
+### Programming
+
 Python
-Machine Learning / Deep Learning
+
+### Machine Learning / Deep Learning
+
 TensorFlow
+
 Keras
+
 Convolutional Neural Networks
+
 NumPy
-MLOps / Workflow
+
+### MLOps / Workflow
+
 DVC
+
 YAML configuration
+
 GitHub Actions
-Application
+
+### Application
+
 Python web application
+
 HTML
+
 CSS
-Development Tools
+
+### Development Tools
+
 Git
+
 GitHub
 
 
